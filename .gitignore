@@ -2,7 +2,7 @@
 /build
 /BUILD_DISTRIBUTION.md
 /build_exe.bat
-/confirm_yes.png
+
 /DEBUG_SCREEN.png
 /DELIVERABLES.md
 /DESIGN_SPEC.md
@@ -14,13 +14,12 @@
 /PROJECT_COMPLETION.md
 /QUICKREF.md
 /QUICK_REF.txt
-/race_progress0.png
-/race_progress90.png
+
 /README_SETUP.txt
 /requirements.txt
 /RUN.bat
-/scoreboard_x.png
+
 /setup.bat
 /SETUP_COMPLETE.md
-/start_race.png
+
 /__pycache__
