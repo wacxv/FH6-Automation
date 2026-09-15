@@ -1,13 +1,5 @@
 """
-Forza Skill Point Farm Automation - Production Edition
-Professional desktop automation tool with custom UI, dual logging, and timing diagnostics.
-Built with CustomTkinter for modern dark-theme aesthetics and PyInstaller compatibility.
-
-Architecture:
-  - Core automation engine with robust error handling
-  - Dual logging system (detection events + cycle timing diagnostics)
-  - CustomTkinter UI with live elapsed timer
-  - Background thread automation with graceful stop signals
+Forza Skill Point Farm Automation
 """
 
 import cv2
