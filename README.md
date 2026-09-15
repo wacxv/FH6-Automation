@@ -4,7 +4,7 @@ Desktop automation application demonstrating computer vision, Windows input APIs
 
 ## Demo Video
 
-[Watch the application demo](fh6-asp_demo.mp4)
+https://github.com/user-attachments/assets/eaed1b71-a12e-4d0e-98f9-752249d43d54
 
 The demo shows the interface, template-based screen detection, automation stages, logging, timing summaries, and pause/stop controls.
 
